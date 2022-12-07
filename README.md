@@ -4,7 +4,11 @@ Hi there, welcome to Eulith. My name is Lucas, I'm a founder along with Moh and 
 
 If you're reading this, you're most likely thinking about working with us as a back-end engineer. You no doubt have many alternatives; we deeply appreciate you considering us. 
 
-The below describes a code exercie we give to potential back-end engineers. Our main evaluation criteria (other than assessing the first month of progress when you join) is how you do on the coding exercise. I think it's important to first highlight the "dimensions" we're going to be thinking about:
+The below describes a code exercie we give to potential back-end engineers. Our main evaluation criteria (other than assessing the first month of progress when you join) is how you do on the coding exercise. 
+
+**We recommend doing your first commit as soon as you sit down and start**
+
+I think it's important to first highlight the "dimensions" we're going to be thinking about:
 
 **1) Your background knowledge going into this exercise.**
 Even though this exercise is very "DeFi specific" we've intended it to be for people who do not know Rust and have never worked in DeFi, most likely you have never heard of the 0x project referenced in teh exercise. For people who have a lot of DeFi specific domain knowledge, we'll give a different exercise. We think about how much Rust you knew going into this and evaluate how much you were able to pick up if you chose to use it.
