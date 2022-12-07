@@ -41,3 +41,7 @@ Your response should be in the form of a test that:
 4. Asserts that the returned constant value is whatever you decided it should be
 
 Please put it in a public Github repo with a README. You may spend as long on this task you like. Get as far as you can and document your progress. If you don't arrive at a working solution, we'll evaluate how you've approached the problem including which tools you've chosen, what simplifying assumptions you've made, etc.
+
+---
+
+Just message me if you have any questions, tg: luca590.
