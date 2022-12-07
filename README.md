@@ -6,7 +6,7 @@ If you're reading this, you're most likely thinking about working with us as a b
 
 The below describes a code exercie we give to potential back-end engineers. Our main evaluation criteria (other than assessing the first month of progress when you join) is how you do on the coding exercise. 
 
-**We recommend doing your first commit as soon as you sit down and start**
+**When you read this, please send us the first commit of the public repo where you will keep your solution.**
 
 I think it's important to first highlight the "dimensions" we're going to be thinking about:
 
