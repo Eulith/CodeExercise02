@@ -46,6 +46,6 @@ Please put it in a public Github repo with a README. You may spend as long on th
 
 Just message me if you have any questions, tg: luca590.
 
-When you finish, email the public repo link to: mailto:team@eulith.com with the subject line: "CodeExercise02 Submission".
+When you finish, email the public repo link to: team@eulith.com with the subject line: "CodeExercise02 Submission".
 
 Thank you so much for taking the time out to do this assignment. We know it's a big time investment and really appreciate your willingness.
