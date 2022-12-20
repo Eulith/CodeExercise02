@@ -51,3 +51,12 @@ Just message me if you have any questions, tg: luca590.
 When you finish, email the public repo link to: team@eulith.com with the subject line: "CodeExercise02 Submission".
 
 Thank you so much for taking the time out to do this assignment. We know it's a big time investment and really appreciate your willingness.
+
+
+## FAQ
+*Q: Am I expected to code on Github or can I use an IDE?*
+A: We do not care, not even a little bit, whether or what IDE you use. We're just looking at the code you submit. Do this assessment like you would write any other code... Just commit when you've done some work. It's not complicated.
+
+*Q: I don't understand all the code*
+A: Right, we're intentionally giving you code/concepts you're not familiar with. You need to figure it out. That's part of the assessment.
+
