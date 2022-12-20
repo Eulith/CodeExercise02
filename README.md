@@ -20,7 +20,9 @@ We'll ask you when you start, how much time you expect to spend on it and evalua
 Treat this like you're already working on our team. Naturally, you will have questions and we'll want to understand your approach/implementation. As usual, include any code specific explanations inline. Write your broader explanations that would typically be a conversation in your README. Write your questions in your README (this is part of the submission). Provide context, but try to be _both precise and concise_ about the issue(s), particulalry in your questions.
 
 **4) The work itself.**
-Goes without saying, but the most important thing is the code itself. We're going to think about your choice of libraries (if you used any), the benefits and limitations of your design; if this was a PR, what would need to change for us to confidently merge it into our codebase.
+Goes without saying, but the most important thing is the code itself. We're going to think about your choice of libraries (if you used any), the benefits and limitations of your design; if this was a PR, what would need to change for us to confidently merge it into our codebase. We care about how the code is presented, whether it handles reasonable edge cases, whether it's robust, whether it's extendable.
+
+This is exercise is associated with this JD, in case the additional context helps: 
 
 
 Alright! Enough chit-chat. Here it is.
@@ -31,7 +33,7 @@ Deploy a dummy example of the 0x protocol on a local development chain.
 
 The dummy example should conform to the 0x's interface (https://github.com/0xProject/protocol/blob/development/contracts/zero-ex/contracts/src/IZeroEx.sol) and return constant values when an ERC20 transform is requested: (https://github.com/0xProject/protocol/blob/development/contracts/zero-ex/contracts/src/features/TransformERC20Feature.sol#L131)
 
-You may use any language, and any local chain you like. We are a Rust shop so bonus points if you use Rust.
+You must use Rust.
 
 Your response should be in the form of a test that:
 
