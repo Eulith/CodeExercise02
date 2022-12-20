@@ -13,7 +13,20 @@ is how you do on the coding exercise.
 
 I think it's important to first highlight the "dimensions" we're going to be thinking about:
 
-**1) The time you spend on the exersice.**
+**1) The work itself.**
+We care about a few things:
+
+- Your code quality: This should go without saying; if you submit a repo that's disorganized, hard to understand,
+  contains files that shouldn't be in source control, etc, that's bad. We'll consider the benefits and
+  limitations of your design.
+- Shipping code that actually works: If you can't complete the whole task, you're better off shipping
+  a smaller piece that works instead of just random code here and there that's supposed to show "intentions."
+- Dependency decisions: We're going to think about your choice of libraries (if you used any)
+  if this was a PR, what would need to change for us to confidently merge it into our codebase.
+  We care about how the code is presented, whether it handles reasonable edge cases, whether
+  it's robust, whether it's extendable.
+
+**2) The time you spend on the exersice.**
 We'll ask you when you start, how much time you expect to spend on it and evaluate you based on that. 
 You're free to lengthen the initial time allocation if you want (no "points" either way, we'll only 
 look at how long it took in total). The "timer" starts when we send you this repo link. We suggest 
@@ -26,7 +39,7 @@ but not so much time relative to your output that your productivity/hour is low 
 shouldn't even worry about this and just do the task for as long as you feel appropriate; 
 the explanation is only to give context.
 
-**2) Your questions and explanations.**
+**3) Your questions and explanations.**
 Treat this like you're already working on our team. Naturally, you will have questions 
 and we'll want to understand your approach/implementation. As usual, include any comments in your code
 you think will be necessary for us to easily understand your approach. 
@@ -34,19 +47,6 @@ Write your broader explanations that would typically be a conversation
 in your README. Write your questions in your README (this is part of the submission). 
 Provide context, but try to be _both precise and concise_ about the issue(s), 
 particularly in your questions.
-
-**3) The work itself.**
-We care about a few things:
-
-- Your code quality: This should go without saying; if you submit a repo that's disorganized, hard to understand,
-contains files that shouldn't be in source control, etc, that's bad. We'll consider the benefits and 
-limitations of your design.
-- Shipping code that actually works: If you can't complete the whole task, you're better off shipping
-a smaller piece that works instead of just random code here and there that's supposed to show "intentions."
-- Dependency decisions: We're going to think about your choice of libraries (if you used any)
-if this was a PR, what would need to change for us to confidently merge it into our codebase. 
-We care about how the code is presented, whether it handles reasonable edge cases, whether 
-it's robust, whether it's extendable.
 
 This is exercise is associated with this JD, in case the additional context helps 
 (it's totally fine if you don't meet all the requirements, this is just for context): 
