@@ -22,7 +22,7 @@ Treat this like you're already working on our team. Naturally, you will have que
 **4) The work itself.**
 Goes without saying, but the most important thing is the code itself. We're going to think about your choice of libraries (if you used any), the benefits and limitations of your design; if this was a PR, what would need to change for us to confidently merge it into our codebase. We care about how the code is presented, whether it handles reasonable edge cases, whether it's robust, whether it's extendable.
 
-This is exercise is associated with this JD, in case the additional context helps: 
+This is exercise is associated with this JD, in case the additional context helps (it's totally fine if you don't meet all the requirements, this is just for context): https://docs.google.com/document/d/13xf1_aaAMdrxoPxtE0k7-mEwwbh5b66nNy-bG_RAXN8/edit?usp=sharing 
 
 
 Alright! Enough chit-chat. Here it is.
