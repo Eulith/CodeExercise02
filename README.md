@@ -54,11 +54,9 @@ https://docs.google.com/document/d/13xf1_aaAMdrxoPxtE0k7-mEwwbh5b66nNy-bG_RAXN8/
 Alright! Enough chit-chat. Here it is.
 
 ---
+NOTE: ALL OF THIS SHOULD BE DEPLOYED ON A LOCAL CHAIN. YOU DON'T NEED TO USE REAL-WORLD ASSETS OR ETH FOR ANY OF THIS.
 
 Implement a simple on-chain contract with an accompanying CLI tool. You must use Rust as your programing language.
-
-!! Develop your contract **on a local chain**, 
-you don't need to deploy or use any real assets for this exercise !!
 
 Your contract should:
 1. Accept ETH or an ERC20 token on your local chain.
@@ -100,9 +98,4 @@ We know it's a big time investment and really appreciate your willingness.
 
 
 ## FAQ
-**Q: Am I expected to code on Github or can I use an IDE?**
-
-A: We do not care, not even a little bit, whether or what IDE you use. 
-We're just looking at the code you submit. 
-Do this assessment like you would write any other code... 
-Just commit when you've done some work. It's not complicated.
+...
