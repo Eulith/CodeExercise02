@@ -55,24 +55,26 @@ Alright! Enough chit-chat. Here it is.
 
 ---
 
-Implement a simple escrow contract with a CLI tool to interface the on-chain components.
+Implement a simple on-chain contract with an accompanying CLI tool. 
 
-Your escrow should:
-1. Accept funds from a payer. These funds can either be native ETH or an ERC20 token.
-You may want to include a note explaining that decision.
-2. Define a recipient.
-3. Define some condition upon which the funds are release to the recipient.
-4. Execute the transfer when your release condition is met.
+!! Develop your contract **on a local chain**, 
+you don't need to deploy or use any real assets for this exercise !!
+
+Your contract should:
+1. Accept ETH or an ERC20 token on your local chain.
+2. Define a recipient address.
+3. Define some condition upon which the ETH is released to the recipient. For example: "if the recipient sends the secret code, they will receive the ETH"
+4. Execute the ETH transfer (on your local chain) when the release condition is met.
 5. Do whatever else you think is useful.
 
 You must use Rust as your programing language.
 
 Your CLI tool should be a standalone binary and allow the user to:
 
-1. Deploy the escrow to a local chain.
-2. Define the payer and the recipient.
-3. Take an action that satisfies the release condition.
-4. Check the balance of the payer or recipient.
+1. Deploy your contract to a **local chain**.
+2. Set the recipient address.
+3. Take an action that satisfies your release condition.
+4. Check the balance of the contract or recipient.
 5. Reset state to setup the contract for another use.
 6. Whatever else you think would be useful.
 
