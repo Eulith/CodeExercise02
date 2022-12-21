@@ -9,9 +9,9 @@ The below describes a code exercise we give to potential back-end engineers.
 Our main evaluation criteria (other than assessing the first month of progress when you join) 
 is how you do on the coding exercise. 
 
-**When you read this, please send us the first commit of the public repo where you will keep your solution.**
+**When you read this, create a public repo (just with your own github account) and please send us the link to that public repo. You will keep your solution in this public repo.**
 
-I think it's important to first highlight the "dimensions" we're going to be thinking about:
+I think it's important to first highlight the "dimensions" on which we're going to be evaluating your solution:
 
 **1) The work itself.**
 We care about a few things:
@@ -27,9 +27,7 @@ We care about a few things:
   it's robust, whether it's extendable.
 
 **2) The time you spend on the exersice.**
-We'll ask you when you start, how much time you expect to spend on it and evaluate you based on that. 
-You're free to lengthen the initial time allocation if you want (no "points" either way, we'll only 
-look at how long it took in total). The "timer" starts when we send you this repo link. We suggest 
+The start time is when you create the public repo mentioned above. You're free to take as long as you want. We suggest 
 you start immediately, but we don't expect you to finish it in 1 sitting (although you can if you want). 
 We'll look at your Github commits and expect you to commit with a certain regularity (i.e. no single 
 commit answers). We view the time you spend as an indication of your interest and work ethic 
@@ -67,7 +65,7 @@ You may want to include a note explaining that decision.
 4. Execute the transfer when your release condition is met.
 5. Do whatever else you think is useful.
 
-We **strongly** encourage you to use Rust. If you choose not to, please explain.
+You must use Rust as your programing language.
 
 Your CLI tool should be a standalone binary and allow the user to:
 
