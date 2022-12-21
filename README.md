@@ -55,7 +55,7 @@ Alright! Enough chit-chat. Here it is.
 
 ---
 
-Implement a simple on-chain contract with an accompanying CLI tool. 
+Implement a simple on-chain contract with an accompanying CLI tool. You must use Rust as your programing language.
 
 !! Develop your contract **on a local chain**, 
 you don't need to deploy or use any real assets for this exercise !!
@@ -65,9 +65,7 @@ Your contract should:
 2. Define a recipient address.
 3. Define some condition upon which the ETH is released to the recipient. For example: "if the recipient sends the secret code, they will receive the ETH"
 4. Execute the ETH transfer (on your local chain) when the release condition is met.
-5. Do whatever else you think is useful.
-
-You must use Rust as your programing language.
+5. Do whatever else you think is useful, for example supporting different types of tokens, supporting on-chain events (e.g. oracle calls), etc.
 
 Your CLI tool should be a standalone binary and allow the user to:
 
