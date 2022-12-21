@@ -54,7 +54,7 @@ https://docs.google.com/document/d/13xf1_aaAMdrxoPxtE0k7-mEwwbh5b66nNy-bG_RAXN8/
 Alright! Enough chit-chat. Here it is.
 
 ---
-NOTE: ALL OF THIS SHOULD BE DEPLOYED ON A LOCAL CHAIN. YOU DON'T NEED TO USE REAL-WORLD ASSETS OR ETH FOR ANY OF THIS.
+NOTE: ALL OF THIS SHOULD BE DEPLOYED ON A LOCAL CHAIN. YOU SHOULD NOT USE REAL-WORLD ASSETS OR ETH FOR ANY OF THIS.
 
 Implement a simple on-chain contract with an accompanying CLI tool. You must use Rust as your programing language.
 
