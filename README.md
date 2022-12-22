@@ -56,7 +56,7 @@ Alright! Enough chit-chat. Here it is.
 ---
 NOTE: ALL OF THIS SHOULD BE DEPLOYED ON A LOCAL CHAIN. YOU SHOULD NOT USE REAL-WORLD ASSETS OR ETH FOR ANY OF THIS.
 
-Implement a simple on-chain contract with an accompanying CLI tool. You must use Rust as your programing language.
+Implement a simple on-chain contract with an accompanying CLI tool. You must use Rust as your programing language, except for the smart contracts. For the smart contracts, we recommend using Ethereum as your blockchain and writing the contracts in Solidity.
 
 Your contract should:
 1. Accept ETH or an ERC20 token on your local chain.
